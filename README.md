@@ -34,8 +34,6 @@
 ---
 
 ### 📫 Connect with Me
-
-- 💼 [LinkedIn](www.linkedin.com/in/rahmanda-imawan-5ba139367)
 - 📷 [Instagram](https://instagram.com/rhmnd.imawan)
 
 ---
