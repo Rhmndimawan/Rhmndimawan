@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahmanda Imawan</h1>
+<h1 align="center">Hi, I'm Rahmanda Imawan</h1>
 <h3 align="center">💻 Informatics Management | 💡 Politeknik Negeri Lampung</h3>
 
 <p align="center">
